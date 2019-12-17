@@ -9,5 +9,4 @@ We have also provided a sample game designed using our provided prefabs.[Youtube
 
 ### Game's Source Code: [Google Drive](https://drive.google.com/open?id=19KyLccLGznCzkypTnU9Hr4lDk_ezN0sT)
 
-
-#### Note: This work can be used freely for academic research work and individual/group non-commercial projects, please do provide citation and/or deserved credits to this work. For Industrial and commercial use permission is required from the Designer.
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
